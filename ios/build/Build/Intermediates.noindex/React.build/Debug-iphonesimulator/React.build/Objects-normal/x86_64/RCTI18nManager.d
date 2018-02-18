@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/simongaviria/Repo/Native/myFirstNativeApp/node_modules/react-native/React/Modules/RCTI18nManager.m \
+  /Users/simongaviria/Repo/Native/myFirstNativeApp/node_modules/react-native/React/Modules/RCTI18nManager.h \
+  /Users/simongaviria/Repo/Native/myFirstNativeApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/simongaviria/Repo/Native/myFirstNativeApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/simongaviria/Repo/Native/myFirstNativeApp/node_modules/react-native/React/Modules/RCTI18nUtil.h
